@@ -1,0 +1,35 @@
+...................................................................!!Bienvenido a ENTROPIA!!...............................................................
+...........................................................................................................................................................
+...........................................................................................................................................................
+
+¿Que es la Entropia? Segun la RAE la entropía es una medida del desorden o aleatoriedad en un sistema. En términos de la física y la termodinámica, se refiere a la cantidad de energía no disponible para realizar trabajo útil. En el contexto de la teoría de la información, la entropía mide la incertidumbre o imprevisibilidad de la información contenida en un mensaje.
+
+¿Porque el juego se llama asi?Todos los escenarios presentados se generan de manera aleatoria, asi como los enemigos y demas posibles objetos, esto solo ira causando mas desorden conforme el tiempo avance.
+
+¿Como se juega? Jugar a ENTROPIA es muy simple, te desplazas por el mapa con las flechas de direccion, tu objetivo es pasar de sala en sala hasta encontrar 
+el caliz que Cristo uso en la ultima cena (cuadrado azul), este podria salir justo al iniciar el juego, a los 21 minutos o nunca (cosas de la aleatoriedad)
+puedes neutralizar a los enemigos disparandoles presionando la tecla espacio o simplemente pasa de ellos lo mas rapido que puedas !!mientras mas salas explores mas posibilidades tienes de encontrar el caliz!!
+
+
+
+........................................................................!AVISO!..............................................................................
+.............................................................................................................................................................
+
+Debido a la aleatoriedad del sistema algunas salas se extienden mas alla de tu vision, si al tocar un borde desapareces y no carga una nueva sala debes salir de hay o te perderas, una vez dicho esto, disfruta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
